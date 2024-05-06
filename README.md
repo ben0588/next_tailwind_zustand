@@ -3,7 +3,7 @@
 ![Todolist](https://i.imgur.com/gu9pv9t.png)
 這是一個待辦清單，旨在提供用戶紀錄待辦事項，因使用了新技術(Next/Taillwind/Zustand) 用於紀錄專案。
 
-- [網站頁面連結](https://ben0588.github.io/vue_mu_ri_homeware/#/)
+- [網站頁面連結](https://next-tailwind-zustand.vercel.app/)
 
 ## 功能
 
